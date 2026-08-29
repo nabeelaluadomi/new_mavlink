@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_qos_test.dir/tests/qos_test.cpp.o -o newmavlink_qos_test  libnewmavlink_core.a libnewmavlink_ascon.a 

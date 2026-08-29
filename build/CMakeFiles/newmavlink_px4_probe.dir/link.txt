@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_px4_probe.dir/apps/px4_adapter_probe.cpp.o -o newmavlink_px4_probe  libnewmavlink_mavlink2_adapter.a libnewmavlink_core.a libnewmavlink_ascon.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_gcs.dir/apps/gcs_endpoint.cpp.o -o newmavlink_gcs  libnewmavlink_core.a libnewmavlink_ascon.a 

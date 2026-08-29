@@ -1,0 +1,169 @@
+Start testing: Aug 28 22:33 +03
+----------------------------------------------------------
+1/11 Testing: newmavlink_wire_test
+1/11 Test: newmavlink_wire_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_wire_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_wire_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_wire_test" end time: Aug 28 22:33 +03
+"newmavlink_wire_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/11 Testing: newmavlink_messages_test
+2/11 Test: newmavlink_messages_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_messages_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_messages_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_messages_test" end time: Aug 28 22:33 +03
+"newmavlink_messages_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/11 Testing: newmavlink_session_test
+3/11 Test: newmavlink_session_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_session_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_session_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_session_test" end time: Aug 28 22:33 +03
+"newmavlink_session_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/11 Testing: newmavlink_qos_test
+4/11 Test: newmavlink_qos_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_qos_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_qos_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_qos_test" end time: Aug 28 22:33 +03
+"newmavlink_qos_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/11 Testing: newmavlink_proxy_test
+5/11 Test: newmavlink_proxy_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_proxy_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_proxy_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_proxy_test" end time: Aug 28 22:33 +03
+"newmavlink_proxy_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/11 Testing: newmavlink_security_test
+6/11 Test: newmavlink_security_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_security_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_security_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_security_test" end time: Aug 28 22:33 +03
+"newmavlink_security_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/11 Testing: newmavlink_messaging_advanced_test
+8/11 Test: newmavlink_messaging_advanced_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_messaging_advanced_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_messaging_advanced_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_messaging_advanced_test" end time: Aug 28 22:33 +03
+"newmavlink_messaging_advanced_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/11 Testing: newmavlink_publisher_test
+9/11 Test: newmavlink_publisher_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_publisher_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_publisher_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_publisher_test" end time: Aug 28 22:33 +03
+"newmavlink_publisher_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/11 Testing: newmavlink_process_e2e
+10/11 Test: newmavlink_process_e2e
+Command: "/usr/bin/cmake" "-E" "env" "NEWMAVLINK_BUILD_DIR=/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build" "bash" "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/tests/process_e2e.sh"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_process_e2e" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+NEWMAVLINK_PROCESS_E2E=PASS vehicle_proxy_gcs=1 typed_position=1 session_reencryption=1
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_process_e2e" end time: Aug 28 22:33 +03
+"newmavlink_process_e2e" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/11 Testing: newmavlink_adapter_test
+11/11 Test: newmavlink_adapter_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_adapter_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_adapter_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_adapter_test" end time: Aug 28 22:33 +03
+"newmavlink_adapter_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/11 Testing: newmavlink_fuzz_test
+7/11 Test: newmavlink_fuzz_test
+Command: "/home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build/newmavlink_fuzz_test"
+Directory: /home/ubuntu/Downloads/new_mavlink_run_20260827_094328/build
+"newmavlink_fuzz_test" start time: Aug 28 22:33 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"newmavlink_fuzz_test" end time: Aug 28 22:33 +03
+"newmavlink_fuzz_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 28 22:33 +03

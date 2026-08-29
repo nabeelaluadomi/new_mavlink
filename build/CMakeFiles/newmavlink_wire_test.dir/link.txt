@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_wire_test.dir/tests/wire_test.cpp.o -o newmavlink_wire_test  libnewmavlink_core.a libnewmavlink_ascon.a 

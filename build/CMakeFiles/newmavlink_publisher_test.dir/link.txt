@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_publisher_test.dir/tests/publisher_test.cpp.o -o newmavlink_publisher_test  libnewmavlink_core.a libnewmavlink_ascon.a 

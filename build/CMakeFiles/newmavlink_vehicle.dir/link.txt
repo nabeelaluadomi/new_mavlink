@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_vehicle.dir/apps/vehicle_endpoint.cpp.o -o newmavlink_vehicle  libnewmavlink_core.a libnewmavlink_ascon.a 

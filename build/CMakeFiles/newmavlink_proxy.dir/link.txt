@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_proxy.dir/apps/proxy_service.cpp.o -o newmavlink_proxy  libnewmavlink_core.a libnewmavlink_ascon.a 

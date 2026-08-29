@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_proxy_test.dir/tests/proxy_test.cpp.o -o newmavlink_proxy_test  libnewmavlink_core.a libnewmavlink_ascon.a 

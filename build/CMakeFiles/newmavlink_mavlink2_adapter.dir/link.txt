@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnewmavlink_mavlink2_adapter.a CMakeFiles/newmavlink_mavlink2_adapter.dir/src/mavlink2_adapter.cpp.o
+/usr/bin/ranlib libnewmavlink_mavlink2_adapter.a

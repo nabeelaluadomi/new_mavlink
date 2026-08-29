@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_adapter_test.dir/tests/adapter_test.cpp.o -o newmavlink_adapter_test  libnewmavlink_mavlink2_adapter.a libnewmavlink_core.a libnewmavlink_ascon.a 

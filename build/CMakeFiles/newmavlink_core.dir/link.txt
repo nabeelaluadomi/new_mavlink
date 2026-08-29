@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnewmavlink_core.a CMakeFiles/newmavlink_core.dir/src/crc16.cpp.o CMakeFiles/newmavlink_core.dir/src/crypto.cpp.o CMakeFiles/newmavlink_core.dir/src/record.cpp.o CMakeFiles/newmavlink_core.dir/src/wire.cpp.o CMakeFiles/newmavlink_core.dir/src/messages.cpp.o CMakeFiles/newmavlink_core.dir/src/session.cpp.o CMakeFiles/newmavlink_core.dir/src/transport.cpp.o CMakeFiles/newmavlink_core.dir/src/qos.cpp.o CMakeFiles/newmavlink_core.dir/src/proxy.cpp.o CMakeFiles/newmavlink_core.dir/src/publisher.cpp.o
+/usr/bin/ranlib libnewmavlink_core.a

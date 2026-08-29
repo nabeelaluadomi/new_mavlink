@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_security_test.dir/tests/security_test.cpp.o -o newmavlink_security_test  libnewmavlink_core.a libnewmavlink_ascon.a 

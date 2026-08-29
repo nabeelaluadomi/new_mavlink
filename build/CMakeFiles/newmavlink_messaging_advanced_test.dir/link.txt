@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/newmavlink_messaging_advanced_test.dir/tests/messaging_advanced_test.cpp.o -o newmavlink_messaging_advanced_test  libnewmavlink_core.a libnewmavlink_ascon.a 

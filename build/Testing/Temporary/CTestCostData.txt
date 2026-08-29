@@ -1,0 +1,12 @@
+newmavlink_wire_test 1 0.00352851
+newmavlink_messages_test 1 0.00332331
+newmavlink_session_test 1 0.00317493
+newmavlink_qos_test 1 0.00301165
+newmavlink_proxy_test 1 0.00266747
+newmavlink_security_test 1 0.00241289
+newmavlink_fuzz_test 1 0.13808
+newmavlink_messaging_advanced_test 1 0.00215
+newmavlink_publisher_test 1 0.00148002
+newmavlink_process_e2e 1 0.0356285
+newmavlink_adapter_test 1 0.00339636
+---
